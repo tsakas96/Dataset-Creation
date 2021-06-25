@@ -1,0 +1,1 @@
+for %%i in (*.svg) do "C:\Program Files\Inkscape\bin\inkscape.com" -w 256 -h 256 %%i -o %%~ni.png
